@@ -11,9 +11,6 @@
   "repository": "luismanuel001/sync-gateway",
   "license": "MIT",
   "main": "./lib/sync_gateway.js",
-  "files": [
-    "./lib/sync_gateway.js"
-  ],
   "keywords": [
     "sync-gateway",
     "sync",
