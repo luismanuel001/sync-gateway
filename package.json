@@ -1,6 +1,6 @@
 {
   "name": "sync-gateway",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Couchbase Mobile Sync Gateway REST wrapper",
   "homepage": "https://github.com/luismanuel001/sync-gateway",
   "author": {
